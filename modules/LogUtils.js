@@ -14,6 +14,8 @@ export function logError(...msgs) {
   logWithColor(red, msgs)
 }
 
+//weiweiwowo
+
 export function logPrompt(...msgs) {
   logWithColor(yellow, msgs)
 }
